@@ -39,21 +39,6 @@ Translations apply automatically at runtime. No game files are modified.
 
 ---
 
-## What's translated
-
-| Area | Status |
-|---|---|
-| UI, menus, dialog boxes | Complete |
-| Rhythm score data & results | Complete |
-| Conspiracy theory posts (in-game social media) | Complete |
-| Social feed posts (PostFukidashi) | Complete |
-| Wiki / lore entries | Complete |
-| Main story dialogue | In progress |
-| Conspiracy theory voiced scenes | In progress |
-| Side events & endings | In progress |
-
----
-
 ## Repositories
 
 **[yunyun-syndrome-translation](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-translation)**
