@@ -14,16 +14,6 @@
 
 </div>
 
----
-
-*Yunyun Syndrome!? Rhythm Psychosis* is a game built specifically for people who grew up on niconico, denpa music, and early 2010s otaku internet culture. The writing is dense with that world — the humor, the speech patterns, the in-jokes, the specific flavor of anonymous comment culture that defined an era.
-
-The official English localization doesn't know that world exists. Dry niconico-style comments get rewritten as aggressive anglophone slang. Character-specific speech patterns are stripped. Terms that have meaning — *nuko*, *denpa*, *doujin goro* — get replaced with generic equivalents or dropped entirely. Lines that are supposed to land as deadpan get punched up into something louder. The result is a translation that's readable but wrong, aimed at an audience that isn't playing this game.
-
-This project retranslates it for the people who are actually playing it.
-
----
-
 ## Install
 
 > If you just want to play — this is the only section you need.
