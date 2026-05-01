@@ -2,16 +2,15 @@
 
 <!-- Replace with a proper banner image — game key art, logo, or custom banner -->
 
-
 <br/>
 
 # YYDS EN Fanslation Project
 
 ### A community retranslation of *Yunyun Syndrome!? Rhythm Psychosis*
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jYjTd5qpKv)
+[![Discord](https://img.shields.io/discord/1497391770118393967?style=flat-square&label=Discord&logo=discord)](https://discord.gg/jYjTd5qpKv)
 [![Releases](https://img.shields.io/github/v/release/YYDS-EN-Fanslation/yunyun-syndrome-mod?style=flat-square&label=Latest%20release&color=3a3a3a)](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod/releases)
-[![Status](https://img.shields.io/badge/Status-Active-2d8a4e?style=flat-square)]()
+![Status](https://img.shields.io/badge/Status-Active-2d8a4e?style=flat-square)
 
 </div>
 
