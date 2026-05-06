@@ -5,6 +5,7 @@
 ### A community retranslation of [*Yunyun Denpa Syndrome*](https://store.steampowered.com/app/2914150/Yunyun_Syndrome_Rhythm_Psychosis/)
 
 [![Discord](https://img.shields.io/discord/1497391770118393967)](https://discord.gg/jYjTd5qpKv)
+[![Progress](https://raster.shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D1WfkeD6KFqCWBM-JGu3l_6HwCyER5Z5BzFZgZ8IDL9L0%26cellRange%3DD3&label=Progress&color=teal)](https://docs.google.com/spreadsheets/d/1WfkeD6KFqCWBM-JGu3l_6HwCyER5Z5BzFZgZ8IDL9L0/edit?gid=551366469#gid=551366469&fvid=2041749061)
 [![Releases](https://img.shields.io/github/v/release/YYDS-EN-Fanslation/yunyun-syndrome-mod?label=Latest%20Mod)](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod/releases)
 [![Status](https://img.shields.io/badge/Status-Active-2d8a4e)]()
 
