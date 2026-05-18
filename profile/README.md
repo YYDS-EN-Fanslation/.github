@@ -27,6 +27,8 @@ and the general vibe as much as possible.
 We are actively working on translating of all the dialogue and text in the game. However this process along with proofreading, testing
 and checking references is going to take a while. In the meantime, our tools are shipped with a Claude MTL translation.
 
+[Live translation status](https://yyds-en-fanslation.github.io/yyds-status/)
+
 We have also prepared two methods of installing our patches: a [patcher](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-patch)
 and a [mod](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod). Ultimately both let you play the game with our translations,
 but differ in the method of installation.
