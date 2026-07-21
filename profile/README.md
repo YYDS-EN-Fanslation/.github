@@ -58,7 +58,7 @@ and a [mod](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod). You can 
 
 ### Mod
 
-- Requires [Melonloader](https://melonwiki.xyz/#/) (mod loader for Unity games)
+- Requires [Melonloader](https://melonwiki.xyz/#/) or [BepInEx](https://docs.bepinex.dev/index.html)
 - Does not modifies game files
 - Persists after a game update
 - Reads patches from files in runtime, allowing you to change/swap translation without reinstalling the mod
