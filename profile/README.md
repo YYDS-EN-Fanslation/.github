@@ -24,12 +24,13 @@ and the general vibe as much as possible.
 
 ## Current Progress
 
-We are actively working on translating of all the dialogue and text in the game. However this process along with proofreading, testing
-and checking references is going to take a while. In the meantime, our tools are shipped with a Claude MTL translation.
+**We are done!** First pass retranslation of all game strings has been completed. Our translators will continue to refine
+our patch and keep it up to date with future game updates. If you spot any mistakes or want to suggest any improvements,
+check out [Contributing](#contributing) section.
 
 [Live translation status](https://yyds-en-fanslation.github.io/yyds-status/)
 
-We have also prepared two methods of installing our patches: a [patcher](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-patch)
+We have prepared two methods of installing our patches: a [patcher](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-patch)
 and a [mod](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod). Ultimately both let you play the game with our translations,
 but differ in the method of installation.
 
@@ -70,7 +71,7 @@ and a [mod](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod). You can 
 Python script for patching translations within game files.
 
 **[yunyun-syndrome-mod](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-mod)**
-Melonloader-based translation mod.
+Mod-based translation mod. (MelonLoader and BepInEx compatible)
 
 **[yunyun-syndrome-translation](https://github.com/YYDS-EN-Fanslation/yunyun-syndrome-translation)**
 Collection of all our translation files in CSV format.
