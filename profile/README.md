@@ -81,6 +81,20 @@ In-game editor for translators and testers. Supports live string editing with im
 Come talk to us on [Discord](https://discord.gg/jYjTd5qpKv) first if you're not sure where to start. We are especially looking for people profficient in Japanese
 and willing to help us translating and proofreading, but it's not required. Every little bit helps!
 
+## Credits
+
+Translation:
+- [MeteoImpact](https://github.com/MeteoImpact)
+
+Logo:
+- Lyra
+
+Programming:
+- [FunMaker](https://github.com/funmaker)
+- [Radish](https://github.com/Radish-sys)
+
+Special thanks to YYDS EN Discord community for testing, ideas and memes.
+
 ## Legal
 
 Fan translation, distributed freely. All game content belongs to AllianceArts. We distribute only replacement text written by contributors, no game files.
