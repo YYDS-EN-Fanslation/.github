@@ -89,7 +89,7 @@ Translation:
 - [MeteoImpact](https://github.com/MeteoImpact)
 
 Logo:
-- Lyra
+- [Lyra](https://x.com/shawnanimates)
 
 Programming:
 - [FunMaker](https://github.com/funmaker)
